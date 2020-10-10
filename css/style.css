@@ -1,0 +1,47 @@
+
+#navItems{
+  display: inline-block;
+    text-align: center;
+    padding: 25px;
+    margin: 5px;
+    padding-top: 20px;
+}
+body{
+  text-align: center;
+}
+
+.one {
+  
+  border: solid 2px black;
+  height: 450px;
+  width: 960px;
+}
+.two { 
+  display: inline-block;
+  padding: 10px;
+  height: 375px;
+  width: 300px;
+  border: solid 2px black;
+}
+.three {
+  position: absolute;
+  border: solid 2px black;
+}
+.four {
+    border: 0px;
+    width: 300px;
+    height: 150px;
+    border: solid 2px black;
+    overflow: auto
+    
+  }
+}
+.five {
+  
+  border: solid 2px black;
+}
+.six {
+  
+  border: solid 2px black;
+}
+
